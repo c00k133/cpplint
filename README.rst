@@ -1,5 +1,7 @@
 Fork of original ``cpplint`` repository, can be found as a link on this page. This is used as a slightly modified version for certain projects. Change log:
+
 1. Remove check for ``Copyright`` notice at the start of documents.
+2. Remove check for header guards
 
 cpplint - static code checker for C++
 =====================================
